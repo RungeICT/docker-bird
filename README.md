@@ -1,7 +1,7 @@
 # rungeict/bird
 Fedora based image for the BIRD Internet Routing Daemon
 
-[![Docker Repository on Quay](https://quay.io/repository/rungeict/docker-bird/status "Docker Repository on Quay")](https://quay.io/repository/rungeict/docker-bird)
+[![Docker Repository on Quay](https://quay.io/repository/rungeict/bird/status "Docker Repository on Quay")](https://quay.io/repository/rungeict/bird)
 
 ## Introduction
 The BIRD project is an attempt to create a routing daemon running on UNIX-like
